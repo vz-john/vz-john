@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 - 🔭 I'm currently working on Data Analyst position.
-- 🌱 I’m1 currently learning Machine Learning Basics.
+- 🌱 I’m currently learning Machine Learning Basics.
 
 
 # 💻 Tech Stack:
